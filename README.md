@@ -12,7 +12,7 @@ I threw this quick Python project together to show how we can automate the borin
 
 What this actually does:
 It's a lightweight script that scans incoming, messy support requests and instantly figures out what to do with them. 
-- Flags whether the user is crying over a Windows, Mac, iOS, Android, or Chromebook issue.
+- Flags whether the user is having a Windows, Mac, iOS, Android, or Chromebook issue.
 - Uses keyword mapping to figure out if it's a busted VPN, a locked account, or a hardware crash.
 - If someone drops words like "ASAP", "locked out", or "5 mins"—it bumps the ticket to HIGH priority so it doesn't get buried in the queue.
 
