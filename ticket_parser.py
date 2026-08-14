@@ -1,8 +1,8 @@
 import json
 
 def grab_tickets(filepath):
-    # Honestly, just a quick helper to load the dummy data. 
-    # Will crash if the file is missing, but whatever, it's just a proof of concept.
+    # just a helper to load the dummy data 
+    # Will crash if the file is missing
     try:
         with open(filepath, 'r') as f:
             return json.load(f)
