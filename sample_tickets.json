@@ -1,0 +1,37 @@
+[
+  {
+    "ticket_id": "INC-001",
+    "user": "alex.m@publicoutreach.com",
+    "subject": "HELP!! Locked out",
+    "description": "So I totally beefed it and wiped my phone yesterday. Now I don't have the authenticator app and my shift starts in like 5 mins. Can someone reset my MFA ASAP??",
+    "platform": "Android"
+  },
+  {
+    "ticket_id": "INC-002",
+    "user": "sarah.j@publicoutreach.com",
+    "subject": "VPN keeps dropping again",
+    "description": "My VPN has been acting super weird all morning. It drops every time I try to load the donor database. Pretty sure it's not my home wi-fi (Netflix works fine lol).",
+    "platform": "macOS"
+  },
+  {
+    "ticket_id": "INC-003",
+    "user": "remote.fundraiser@publicoutreach.com",
+    "subject": "Need the dialer app installed",
+    "description": "Hey team, need the new softphone application installed on my windows laptop so I can actually make calls today. Let me know when you can jump on to do the admin password thing.",
+    "platform": "Windows"
+  },
+  {
+    "ticket_id": "INC-004",
+    "user": "david.k@publicoutreach.com",
+    "subject": "Chromebook is a brick right now",
+    "description": "Literally whenever I open more than a couple tabs, my Chromebook completely freezes up. Had to hard restart it twice already this morning.",
+    "platform": "ChromeOS"
+  },
+  {
+    "ticket_id": "INC-005",
+    "user": "hr.team@publicoutreach.com",
+    "subject": "iPad email sync broken?",
+    "description": "Is Google Workspace down right now? The mail app on my work iPad just stopped pulling in new emails yesterday afternoon.",
+    "platform": "iOS"
+  }
+]
